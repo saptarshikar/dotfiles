@@ -54,3 +54,12 @@ set nolist
 set formatoptions=qrn1
 set spell spelllang=en_us
 "" set colorcolumn=80
+nnoremap <up> <nop>
+nnoremap <down> <nop>
+nnoremap <left> <nop>
+nnoremap <right> <nop>
+inoremap <up> <nop>
+inoremap <down> <nop>
+inoremap <left> <nop>
+inoremap <right> <nop>
+
