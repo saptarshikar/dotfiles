@@ -4,3 +4,9 @@
 [submodule "vim/pack/saptarshikar/start/vim-fugitive"]
 	path = vim/pack/saptarshikar/start/vim-fugitive
 	url = http://github.com/tpope/vim-fugitive.git
+[submodule "vim/pack/saptarshikar/start/nerdtree"]
+	path = vim/pack/saptarshikar/start/nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "vim/pack/saptarshikar/start/taglist"]
+	path = vim/pack/saptarshikar/start/taglist
+	url = https://github.com/vim-scripts/taglist.vim
