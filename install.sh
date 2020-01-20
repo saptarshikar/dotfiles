@@ -7,3 +7,6 @@ for f in ~/dotfiles/*
 do
   ln -s "$f" "$HOME/.${f##*/}"
 done
+
+mkdir -p ~/code
+git clone https://github.com/leostat/rtfm.git ~/code/rtfm
