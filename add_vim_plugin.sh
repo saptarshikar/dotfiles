@@ -13,3 +13,4 @@ plugin_path="vim/pack/saptarshikar/start/"$name
 echo $plugin_path
 git submodule add $1 $plugin_path
 git add .gitmodules $plugin_path
+git commit
